@@ -13,14 +13,14 @@ A robust, command-line interface (CLI) application built with Java that simulate
 ## 🛠️ Technical Stack & Concepts Used
 
 - Language: Java (JDK 11+)
-- OOPs Principles: * Encapsulation for securing user balance and sensitive data.
-- Abstraction to simplify complex banking workflows for the user.
+- OOPs Principles:
+   - Encapsulation for securing user balance and sensitive data.
+   - Abstraction to simplify complex banking workflows for the user.
 - Collections Framework: Used ArrayList and HashMap for efficient data storage and retrieval.
 - Exception Handling: Custom try-catch blocks to manage "Insufficient Funds" and "Invalid Input" scenarios.
 
 ## 📸 Screenshots
 <img width="563" height="438" alt="Screenshot 2026-04-09 145700" src="https://github.com/user-attachments/assets/02165180-f0e6-4e74-9c24-8495769e1e1f" />
-
 
 ## ⚙️ How to Run
 
@@ -36,3 +36,11 @@ A robust, command-line interface (CLI) application built with Java that simulate
 5. Run the program:  
    ```bash
    java Main
+
+## 🤝 Contributing
+If you have suggestions for improving the transaction logic or adding new features, feel free to fork the repo and create a pull request.
+
+   Author: Arman Khan
+
+   LinkedIn: www.linkedin.com/in/armankhan7860
+
