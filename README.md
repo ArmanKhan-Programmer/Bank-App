@@ -19,6 +19,7 @@ A robust, command-line interface (CLI) application built with Java that simulate
 - Exception Handling: Custom try-catch blocks to manage "Insufficient Funds" and "Invalid Input" scenarios.
 
 ## 📸 Screenshots
+<img width="563" height="438" alt="Screenshot 2026-04-09 145700" src="https://github.com/user-attachments/assets/02165180-f0e6-4e74-9c24-8495769e1e1f" />
 
 
 ## ⚙️ How to Run
