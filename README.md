@@ -14,32 +14,28 @@ A robust, command-line interface (CLI) application built with Java that simulate
 
 - Language: Java (JDK 11+)
 - OOPs Principles: * Encapsulation for securing user balance and sensitive data.
+- Abstraction to simplify complex banking workflows for the user.
+- Collections Framework: Used ArrayList and HashMap for efficient data storage and retrieval.
 
-Abstraction to simplify complex banking workflows for the user.
-
-Collections Framework: Used ArrayList and HashMap for efficient data storage and retrieval.
-
-Exception Handling: Custom try-catch blocks to manage "Insufficient Funds" and "Invalid Input" scenarios.
-
-File Handling (Optional): (Add this if you used .txt or .dat files to save data).
+- Exception Handling: Custom try-catch blocks to manage "Insufficient Funds" and "Invalid Input" scenarios.
 
 ## 📸 Screenshots / Demo
 (Tip: Add a screenshot of your terminal output here to show the menu in action!)
 
 ## ⚙️ How to Run
-Clone the repository:
-'''Bash
-git clone https://github.com/your-username/banking-system-java.git
 
-Navigate to the project directory:
+1. Clone the repository:
+  ```Bash
+  git clone https://github.com/your-username/banking-system-java.git
 
-Bash
+2. Navigate to the project directory:
+  ```Bash
 cd banking-system-java
-Compile the Java files:
 
-Bash
+3. Compile the Java files:
+  ```Bash
 javac Main.java
-Run the application:
 
-Bash
+4. Run the application:
+  ```Bash
 java Main
