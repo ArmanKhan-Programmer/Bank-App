@@ -32,7 +32,6 @@ A robust, command-line interface (CLI) application built with Java that simulate
    ```bash
    cd Library_Management_System/src
 2. Compile the project:
-      compile all Java files:  
    ```bash
    javac app/Main.java domain/*.java exception/*.java repository/*.java service/*.java service/impl/*.java util/*.java
 3. Run the Application:    
