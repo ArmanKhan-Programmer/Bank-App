@@ -30,7 +30,7 @@ A robust, command-line interface (CLI) application built with Java that simulate
 
 2. Navigate to src/ folder:
    ```bash
-   cd Library_Management_System/src
+   cd Bank-App/src
 2. Compile the project:
    ```bash
    javac app/Main.java domain/*.java exception/*.java repository/*.java service/*.java service/impl/*.java util/*.java
