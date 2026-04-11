@@ -24,18 +24,16 @@ A robust, command-line interface (CLI) application built with Java that simulate
 
 ## ⚙️ How to Run
 
-2. Clone the repository:  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/ArmanKhan-Programmer/Bank-App.git
-3. Navigate to src/ folder:  
+2. Compile the project:
+   Navigate to the src folder and compile all Java files:  
    ```bash
-   cd Bank-App/src
-4. Compile all .java files:    
+   javac app/Main.java domain/*.java exception/*.java repository/*.java service/*.java service/impl/*.java util/*.java
+3. Run the Application:    
    ```bash
-   javac *.java
-5. Run the program:  
-   ```bash
-   java Main
+   java app.Main
 
 ## 🤝 Contributing
 If you have suggestions for improving the transaction logic or adding new features, feel free to fork the repo and create a pull request.
@@ -43,4 +41,5 @@ If you have suggestions for improving the transaction logic or adding new featur
    Author: Arman Khan
 
    LinkedIn: www.linkedin.com/in/armankhan7860
+
 
